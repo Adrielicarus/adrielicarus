@@ -39,14 +39,6 @@ Antes de eso, participé en varios proyectos internos (algunos lanzados, otros n
 
 ---
 
-## Algunos ejemplos
-
-<img src="images/tool-preview.png" alt="Preview de herramienta de desarrollo de niveles" style="width:100%; border-radius:12px; margin-top:10px; margin-bottom:20px;" />
-
-Esta es una herramienta interna que desarrollé para facilitar el testing rápido de mecánicas específicas sin necesidad de pasar por todo el flujo del juego. Útil para QA y diseño técnico.
-
----
-
 ## Contacto
 
 - [LinkedIn](https://linkedin.com/in/adrielsantos)
