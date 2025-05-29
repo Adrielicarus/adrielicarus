@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/user-attachments/assets/d9c8ebec-9959-4a8c-b970-f90f35f88281)
+![freepik__banner-with-jose-varek-and-gameplay-programmer-at-__6884_resized (5)](https://github.com/user-attachments/assets/0f8b257e-5217-4a9c-a91a-c456c5fb3766)
 
 
 # José Varek
@@ -28,6 +28,8 @@ Antes de eso, participé en varios proyectos internos (algunos lanzados, otros n
 - Perforce, Git, Jenkins
 - Profiler, herramientas de análisis de rendimiento, debugging en consola
 
+![Lenguaje de programación](https://github.com/user-attachments/assets/48824a99-cc55-4bda-bad9-e6babaa3783d)
+
 ---
 
 ##  Proyectos destacados
@@ -44,7 +46,6 @@ Antes de eso, participé en varios proyectos internos (algunos lanzados, otros n
 ## Contacto
 
 - [LinkedIn](https://linkedin.com/in/adrielsantos)
-- [Portafolio](https://adrielsantos.dev) *(si aplica)*
 - adriel.santos@ejemplo.com
 
 ---
