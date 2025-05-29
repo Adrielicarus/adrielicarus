@@ -1,5 +1,6 @@
 
-![Banner](https://github.com/user-attachments/assets/2493bc1e-7d0f-4b74-b583-caeaf83934fd)
+![Banner](https://github.com/user-attachments/assets/37816eb1-4ad3-47a1-882e-bc840806b704)
+
 
 # José Varek
 
