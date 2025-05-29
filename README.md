@@ -1,4 +1,5 @@
-<img src="images/banner.jpg" alt="Banner profesional de desarrollo de videojuegos" style="width:100%; border-radius:12px; margin-bottom:20px;" />
+
+![Banner](https://github.com/user-attachments/assets/2493bc1e-7d0f-4b74-b583-caeaf83934fd)
 
 # José Varek
 
