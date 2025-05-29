@@ -1,46 +1,50 @@
-# Whatchworld S.F
-## Tu mundo de entretenimiento, sin fronteras.
+<img src="images/banner.jpg" alt="Banner profesional de desarrollo de videojuegos" style="width:100%; border-radius:12px; margin-bottom:20px;" />
 
+# Adriel Santos
 
-### ¿Qué es WatchWorld S.F?
-WatchWorld S.F es una plataforma de streaming que ofrece contenido multimedia desde cualquier lugar del planeta. Diseñada para ser accesible, escalable y compatible con múltiples dispositivos, nuestra misión es redefinir la forma en la que se disfruta el contenido digital, permite a los usuarios.
+Desarrollador de videojuegos en Ubisoft. Trabajo principalmente en gameplay y sistemas, colaborando con equipos de diseño, animación e IA para dar vida a mecánicas complejas sin que se noten.
 
+Me gusta mantener el código limpio, legible y fácil de escalar, sobre todo cuando hay muchas personas construyendo sobre él. En proyectos grandes, lo técnico y lo humano pesan igual: escribir algo que funcione es tan importante como hacerlo entendible para quien lo toma después.
 
-> Ver películas, series, documentales y contenido exclusivo en cualquier país
-> 
-> Acceder desde cualquier dispositivo: Web, Android, iOS, Smart TVs
-> 
-> Compartir perfiles familiares, listas y recomendaciones
-> 
-> Recibir sugerencias personalizadas gracias a IA
-> 
-> Cambiar fácilmente de idioma y activar subtítulos/multiaudio
-> 
-> Disfrutar de navegación por categorías culturales y locales
+Este espacio lo uso para compartir herramientas internas, prototipos, pruebas técnicas y cosas que me parecen útiles o interesantes del desarrollo diario.
 
-### Tenemos en desarrollo....
+---
 
-> Reconocimiento facial y de emociones (opt-in) para adaptar el contenido al estado de ánimo del usuario.
->
-> Traducción automática de subtítulos con modelos de IA.
->
->
-> Exploración cultural por regiones del mundo con colecciones y canales temáticos.
->
-> Recomendaciones por ADN cinematográfico (género narrativo, estilo visual, sonido, etc.)
->
-> Comentarios y clubs de visualización en tiempo real
->
-> Modo gamer con integración Twitch/YouTube Gaming para ver y compartir contenido en paralelo.
+## Experiencia reciente
 
+Actualmente formo parte del equipo de desarrollo en Ubisoft, trabajando en un proyecto para consolas de nueva generación. Mi rol está centrado en gameplay, principalmente traversal, combate y lógica de interacción. También colaboro en herramientas de diseño para facilitar el trabajo de otros equipos.
 
+Antes de eso, participé en varios proyectos internos (algunos lanzados, otros no tanto) enfocados en third-person action y entornos abiertos. Me ha tocado lidiar con bugs rarísimos, optimizar sistemas en consolas con recursos limitados, y crear soluciones para problemas que no sabíamos que existían hasta que aparecieron.
 
+---
 
+## Cosas que toco seguido
 
+- Motores propietarios (y Unreal, cuando hace falta)
+- C++ para gameplay y sistemas
+- Herramientas internas para diseño, testeo o depuración
+- Perforce, Git, Jenkins
+- Profiler, herramientas de análisis de rendimiento, debugging en consola
 
+---
 
+## Algunos ejemplos
 
+<img src="images/tool-preview.png" alt="Preview de herramienta de desarrollo de niveles" style="width:100%; border-radius:12px; margin-top:10px; margin-bottom:20px;" />
 
+Esta es una herramienta interna que desarrollé para facilitar el testing rápido de mecánicas específicas sin necesidad de pasar por todo el flujo del juego. Útil para QA y diseño técnico.
+
+---
+
+## Contacto
+
+- [LinkedIn](https://linkedin.com/in/adrielsantos)
+- [Portafolio](https://adrielsantos.dev) *(si aplica)*
+- adriel.santos@ejemplo.com
+
+---
+
+Gracias por pasar. Si algo de lo que ves acá te sirve, úsalo sin problema. Y si quieres charlar de desarrollo o colaborar en algo, bienvenido sea.
 
 
 
