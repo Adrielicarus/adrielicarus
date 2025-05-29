@@ -1,6 +1,6 @@
 <img src="images/banner.jpg" alt="Banner profesional de desarrollo de videojuegos" style="width:100%; border-radius:12px; margin-bottom:20px;" />
 
-# Adriel Santos
+# José Varek
 
 Desarrollador de videojuegos en Ubisoft. Trabajo principalmente en gameplay y sistemas, colaborando con equipos de diseño, animación e IA para dar vida a mecánicas complejas sin que se noten.
 
