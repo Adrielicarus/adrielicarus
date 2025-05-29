@@ -4,7 +4,7 @@
 
 # José Varek
 
-Desarrollador de videojuegos en Ubisoft. Trabajo principalmente en gameplay y sistemas, colaborando con equipos de diseño, animación e IA para dar vida a mecánicas complejas sin que se noten.
+Desarrollador de videojuegos en Ubisoft. Trabajo principalmente en gameplay y sistemas, colaborando con equipos de diseño, animación e IA.
 
 Me gusta mantener el código limpio, legible y fácil de escalar, sobre todo cuando hay muchas personas construyendo sobre él. En proyectos grandes, lo técnico y lo humano pesan igual: escribir algo que funcione es tan importante como hacerlo entendible para quien lo toma después.
 
