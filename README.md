@@ -50,7 +50,7 @@ Antes de eso, participé en varios proyectos internos (algunos lanzados, otros n
 
 ---
 
-Gracias por pasar. Si algo de lo que ves acá te sirve, úsalo sin problema. Y si quieres charlar de desarrollo o colaborar en algo, bienvenido sea.
+Gracias por pasar. Si algo de lo que ves aqui te sirve, úsalo sin problema. Y si quieres charlar de desarrollo o colaborar en algo, bienvenido sea.
 
 
 
