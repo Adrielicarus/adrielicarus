@@ -14,9 +14,9 @@ Este espacio lo uso para compartir herramientas internas, prototipos, pruebas t�
 
 ## Experiencia reciente
 
-Actualmente formo parte del equipo de desarrollo en Ubisoft, trabajando en un proyecto para consolas de nueva generación. Mi rol está centrado en gameplay, principalmente traversal, combate y lógica de interacción. También colaboro en herramientas de diseño para facilitar el trabajo de otros equipos.
+Actualmente formo parte del equipo de desarrollo en Ubisoft, trabajando en un proyecto para consolas de nueva generación. Mi rol está centrado en gameplay, principalmente, combate y lógica de interacción. También colaboro en herramientas de diseño para facilitar el trabajo de otros equipos.
 
-Antes de eso, participé en varios proyectos internos (algunos lanzados, otros no ) enfocados en third-person action y entornos abiertos. Me ha tocado lidiar con bugs rarísimos, optimizar sistemas en consolas con recursos limitados, y crear soluciones para problemas que no sabíamos que existían hasta que aparecieron.
+Antes de eso, participé en varios proyectos internos (algunos lanzados, otros no) enfocados en third-person action y entornos abiertos. Me ha tocado lidiar con bugs rarísimos, optimizar sistemas en consolas con recursos limitados, y crear soluciones para problemas que no sabíamos que existían hasta que aparecieron.
 
 ---
 
