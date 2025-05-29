@@ -45,8 +45,8 @@ Antes de eso, participé en varios proyectos internos (algunos lanzados, otros n
 
 ## Contacto
 
-- [LinkedIn](https://linkedin.com/in/adrielsantos)
-- adriel.santos@ejemplo.com
+- [LinkedIn](https://linkedin.com/in/JoséVarek)
+-  JoseVarek@gmail.com
 
 ---
 
