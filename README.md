@@ -18,13 +18,24 @@ Antes de eso, participé en varios proyectos internos (algunos lanzados, otros n
 
 ---
 
-## Cosas que toco seguido
+## Cosas que uso seguido
 
 - Motores propietarios (y Unreal, cuando hace falta)
 - C++ para gameplay y sistemas
 - Herramientas internas para diseño, testeo o depuración
 - Perforce, Git, Jenkins
 - Profiler, herramientas de análisis de rendimiento, debugging en consola
+
+---
+
+##  Proyectos destacados
+
+###  FarCry 7
+**Ubisoft — Gameplay Programmer**
+
+- Mecánicas de vehiculos y combate en primera persona
+- Integración con sistemas de animación y cámaras dinámicas
+- Optimización de lógica en entornos abiertos y con muchos NPCs simultáneos
 
 ---
 
